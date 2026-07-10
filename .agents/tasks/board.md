@@ -4,3 +4,4 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | task-001 | Implement backend logic for user auth | claude | Todo | | |
 | task-002 | Integrate with frontend manual adjustments | codex | Todo | | |
+| task-003 | Visual walk-through and layout check | antigravity | Todo | | |
