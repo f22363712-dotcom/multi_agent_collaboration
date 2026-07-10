@@ -3,3 +3,4 @@
 | Task ID | Title | Agent | Status | Branch | Worktree Path |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | task-001 | Implement backend logic for user auth | claude | Todo | | |
+| task-002 | Integrate with frontend manual adjustments | codex | Todo | | |
