@@ -9,3 +9,4 @@
 | task-005 | 实现后端用户认证API | claude | Todo | | |
 | task-006 | 手动调试数据库连接超时问题 | codex | Todo | | |
 | task-007 | 设计一个用户登录界面 | antigravity | Todo | | |
+| task-008 | 修复登录页面的 Bug | antigravity | Todo | | |
