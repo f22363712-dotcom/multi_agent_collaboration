@@ -1,0 +1,23 @@
+{
+    "project_name": "multi_agent_collaboration",
+    "worktrees_dir": "D:\\multi_agent_worktrees",
+    "agents": {
+        "claude": {
+            "cli_command": "claude",
+            "default_args": [
+                "-p",
+                "--allowedTools",
+                "Edit,Read,Bash",
+                "--permission-mode",
+                "dontAsk"
+            ],
+            "guide_file": "CLAUDE.md"
+        },
+        "antigravity": {
+            "guide_file": ".agents/AGENTS.md"
+        },
+        "codex": {
+            "interactive": true
+        }
+    }
+}
